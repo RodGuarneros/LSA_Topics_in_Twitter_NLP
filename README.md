@@ -11,4 +11,5 @@ La matriz de documento-termino sobre el corpus del texto se lee de la siguiente 
 
 El SVD factoriza la matriz documento-término en tres matrices: U, L y V. Las primeras dos son matrices ortonormales y L es una matriz singular (su determinante no existe o no es invertible), tal y como se ilustra a continuación:
 
-![image.png](attachment:104ce503-ae51-4251-858e-63a8ff6bed98.png)
+![image.png](https://github.com/RodGuarneros/LSA_Topics_in_Twitter_NLP/blob/main/humor.jpg)
+
